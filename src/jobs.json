@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "66fb",
+      "title": "Machine Learning",
+      "type": "Internship",
+      "location": "Almaty",
+      "description": "add any description",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "company description",
+        "contactEmail": "asdf@gmail.com",
+        "contactPhone": "+7373777773"
+      }
     }
   ]
 }
